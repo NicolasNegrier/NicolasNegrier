@@ -14,7 +14,7 @@ Puis j'ai eu 1 mois d'apprentissage React avec et sans Redux.
 ## Connaissances projet
 
 En fin de formation, nous avions 1 mois pour réaliser un projet de zéro en équipe de quatre.
-Montage du cahier des charges, conception des wireframes, des users stories, MLD, MCD durant le sprint 0 puis les sprints 1 et 2 étaient consacrés au code de notre APP, puis sprint 3, fix des bugs éventuels ou recherche d'amélioration de notre MVP.
+Montage du cahier des charges, conception des **wireframes**, des **users stories**, **MLD**, **MCD** durant le sprint 0 puis les sprints 1 et 2 étaient consacrés au code de notre APP, puis sprint 3, fix des bugs éventuels ou recherche d'amélioration de notre MVP.
 
 ## Mon expérience professionnelle
 
